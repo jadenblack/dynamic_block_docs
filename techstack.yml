@@ -1,7 +1,8 @@
 repo_name: jadenblack/dynamic_block_docs
 report_id: e646f12abd82c5a7d7d4d7b36bc9b29c
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:19:09+00:00'
+timestamp: '2024-01-05T08:22:48+00:00'
 requested_by: web-flow
 provider: github
 branch: develop
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/dynamic_block_docs
   detection_source: Repo Metadata
